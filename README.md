@@ -1,6 +1,8 @@
 # Smartisan-index-special-effects
 锤子科技官方首页特效  极简版
-  原理： 使用CSS3的transform-style: preserve-3d构建一个3D透视空间。 
+
+  原理： 
+   使用CSS3的transform-style: preserve-3d构建一个3D透视空间。 
    获取鼠标X，Y轴线性运动变量。 
    为了使鼠标左右移动图片产生左右偏转，得把鼠标运动到banner图中间点为“0,0”，这样的话往左为负，往右为正。 
    把变量赋值给CSS3的rotateX,rotateY。
