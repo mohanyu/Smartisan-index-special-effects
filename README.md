@@ -1,5 +1,5 @@
 # Smartisan-index-special-effects
-锤子科技官方首页特效  极简版
+# 锤子科技官方首页特效  极简版
 
 # 原理： 
      ①使用CSS3的transform-style: preserve-3d构建一个3D透视空间。
